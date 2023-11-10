@@ -7,7 +7,6 @@
   --color-white: rgb(250, 245, 245);
 }
 body{
-  background: var(--color-basey
-  );
+  background: var(--color-basey);
   color: var(--color-white);
 }
